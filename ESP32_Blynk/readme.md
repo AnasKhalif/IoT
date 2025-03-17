@@ -37,6 +37,6 @@
 
 ## 📷 Hasil
 
-| Tampilan Blynk       | Hasil Simulasi          |
-| -------------------- | ----------------------- |
-| ![Blynk](blynk.jpeg) | ![Results](results.png) |
+| Tampilan Blynk       | Hasil Simulasi                                                                     |
+| -------------------- | ---------------------------------------------------------------------------------- |
+| ![Blynk](blynk.jpeg) | ![Results](https://github.com/AnasKhalif/IoT/blob/main/ESP32_Blynk/%20results.png) |
